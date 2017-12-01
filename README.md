@@ -30,3 +30,6 @@
 
 使用手册：[使用文档](http://www.kancloud.cn/dzmyiliao/dzm/463354)
 论坛：[论坛](http://bbs.dzmtech.com)
+
+### 八.OpenHIS交流群
+       616207827
